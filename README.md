@@ -10,4 +10,6 @@
 
 ## Sitemap
 
+![Website Sitemap](img/Sitemap-Structure.png)
+
 ## References
