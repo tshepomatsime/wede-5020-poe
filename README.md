@@ -1,26 +1,40 @@
 # Project Title
-Your project's title
+Matsime Armour Online Store
 
 ## Student Information
-**Student number:** Your student number <br>
-**Student Name:** Your full name
+**Student number:** ST10538093 <br>
+**Student Name:** Tshepo Matsime
 
 ## Project Overview
 
-Pull this from your project proposal.
+Matsime Armour is a clothing brand founded in 2022 during the COVID-19 pandemic. The business focuses on producing unique clothing designs while also allowing customers to create their own customised apparel.
+The organisation operates mainly in the North West province and has worked with schools to supply printed t-shirts, tracksuits, and uniforms based on their specific design requests. It has also collaborated with businesses such as restaurants and hotels by providing customised work uniforms.
+A key feature of Matsime Armour is its custom design service, where customers can create their own designs. The organisation ensures high-quality fabric and printing to satisfy customer needs. The brand promotes creativity and self-expression.
+Mission and Vision:
+The mission is to provide high-quality customised clothing that allows customers to express themselves. The vision is to expand into other provinces, especially Gauteng, and grow into a recognised national brand. The business also aims to improve its social media presence and increase brand awareness between 2026 and 2027.
+Target Audience:
+⦁	Individuals interested in creative fashion
+⦁	Schools requiring uniforms
+⦁	Businesses needing workwear.
 
 ## Website Goals and Objectives
 
-Pull this from your project proposal.
+The main goal of the website is to enable online sales, providing customers with 24/7 access to products. It will also provide information about the organisation’s background and services.
+The website aims to expand the business reach across South Africa and increase customer engagement. Success will be measured using Google Analytics 4 (GA4), focusing on conversion rate and average customer spending.
 
 ## Timeline and Milestones
 
-Pull this from your project proposal.
+⦁	Week 1: Research
+⦁	Week 2: Proposal development
+⦁	Week 3: Design mockups
+⦁	Week 4: Website development
+⦁	Week 5: Testing and revision
 
 ## Sitemap
 
-![Website Sitemap](img/mysitemap.png) <br> (The one here is only an example, include your own site map)
+<img width="3680" height="2360" alt="image" src="https://github.com/user-attachments/assets/d218e8d1-f4da-4e5c-a097-f2781a969c7e" />
+
 
 ## References
 
-Ensure that all sources used in your assignment are cited and referenced using the Harvard referencing style.
+⦁	Statistics South Africa, https://www.bing.com/ck/a?!&&p=69eeb8f22b38cff8705b4f98db39d190da01fe2c48bd303a2960bf8ebe4b718dJmltdHM9MTc3NTk1MjAwMA&ptn=3&ver=2&hsh=4&fclid=2de88ee3-3811-6c87-2aed-9d5339186d1b&psq=government+statistics+website&u=a1aHR0cHM6Ly93d3cuc3RhdHNzYS5nb3YuemEv
