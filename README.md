@@ -32,9 +32,11 @@ The website aims to expand the business reach across South Africa and increase c
 
 ## Sitemap
 
-<img width="3680" height="2360" alt="image" src="https://github.com/user-attachments/assets/d218e8d1-f4da-4e5c-a097-f2781a969c7e" />
-
+[text](<Image tsa papa/Sitemap.drawio.html>)
 
 ## References
 
 ⦁	Statistics South Africa, https://www.bing.com/ck/a?!&&p=69eeb8f22b38cff8705b4f98db39d190da01fe2c48bd303a2960bf8ebe4b718dJmltdHM9MTc3NTk1MjAwMA&ptn=3&ver=2&hsh=4&fclid=2de88ee3-3811-6c87-2aed-9d5339186d1b&psq=government+statistics+website&u=a1aHR0cHM6Ly93d3cuc3RhdHNzYS5nb3YuemEv
+
+
+[def]: ../../../Downloads/Sitemap.drawio.html
