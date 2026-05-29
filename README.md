@@ -32,7 +32,7 @@ The website aims to expand the business reach across South Africa and increase c
 
 ## Sitemap
 
-[text](<Image tsa papa/Sitemap.drawio.html>)
+file:///C:/Users/user/Downloads/Sitemap.drawio.html
 
 ## References
 
@@ -40,3 +40,10 @@ The website aims to expand the business reach across South Africa and increase c
 
 
 [def]: ../../../Downloads/Sitemap.drawio.html
+
+## Part 2
+Step 1. I styled the header of the page.
+Step 2. I styled the navigation bar.
+Step 3. I styled the shop button.
+Step 4. I styled the cart button.
+Step 5. I styled the footer section.
